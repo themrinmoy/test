@@ -1,0 +1,57 @@
+body {
+        text-align: center;
+        background-color: #caf0f8;
+}
+
+h1 {
+        color: rgb(75, 109, 224);
+}
+
+.contact {
+
+
+        color: #2b2d42;
+        text-decoration: solid;
+        padding: 15px 15px;
+
+
+
+
+}
+
+.contact a:hover {
+        color: rgb(53, 53, 151);
+}
+
+a.contact:hover {
+        color: rgb(53, 53, 151);
+}
+
+
+
+
+#education {
+        background-color: #e9edc9;
+        padding: 1em;
+        /* padding: 2em; */
+        position: left;
+        width: 60%;
+        height: 60%;
+        display: inline-block;
+}
+
+#skill {
+        background-color: #2a9d8f;
+        padding: 1em;
+        width: 60%;
+        height: 60%;
+        display: inline-block;
+}
+
+#work {
+        background-color: #adad51;
+        padding: 1em;
+        width: 60%;
+        height: 60%;
+        display: inline-block;
+}
